@@ -1,8 +1,8 @@
 """
 Filename: Warm-Up_4_QC_Hello.py
 Author: <Zavala, Giselle>
-Created: <MM/DD/YYYY>
-Instructor: Holtslander
+Created: <11/21/2025>
+Instructor: Gislle
 """
 
 def hello():
@@ -19,3 +19,4 @@ Name = input("What is your name"/n")
 if __name__ == '__main__':
 
     hello()
+
